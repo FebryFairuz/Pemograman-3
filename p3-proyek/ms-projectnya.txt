@@ -1,0 +1,9 @@
+			-- tolong di buat ms.projectnya --
+
+1. perencanaan	--> 2 hari --> 27-11-2012 smp 28-11-2012
+2. eksekusi proyek --> 20 hari --> 30-11-2012 smp 27-12-2012
+	2.1 desain --> 2 hari --> 30-11-2012 smp 3-12-2012
+	2.2 database --> 1 hari --> 4-12-2012
+	2.3 script  --> 17 hari --> 5-12-2012 smp 27-12-2012
+3. testing --> 3 hari --> 28-12-2012 smp 31-12-12
+4. closing --> 1 hari --> 10-1-2013
